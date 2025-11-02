@@ -235,7 +235,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(banner-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     height: auto;
@@ -674,7 +674,7 @@ button {
 .event_section_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/event-img.png);
+    background-image: url(event-img.png);
     height: auto;
     background-size: 100%;
     padding: 0px 0px 0px 0px;
@@ -1070,4 +1070,5 @@ textarea#comment::placeholder {
 
 .margin_top90 {
     margin-top: 90px;
+
 }
