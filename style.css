@@ -549,8 +549,7 @@ button {
 }
 
 .icon_1 {
-    width: 200px;
-    height: 100px;
+    width: 150px;
     float: left;
     background: #fff;
     padding: 8px;
@@ -1080,6 +1079,7 @@ textarea#comment::placeholder {
     margin-top: 90px;
 
 }
+
 
 
 
